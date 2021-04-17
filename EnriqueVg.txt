@@ -1,0 +1,140 @@
+Buen dia chicos:
+
+Es importante que desde el día de hoy no generar Activación de tarjetas de NINGUN Programa, incluyendo CREDITO A LA PALABRA.
+
+Si la tarjeta es Debito tradicional (BIN 5261) o Reposición de programa (BIN 5515) realizamos proceso de forma normal siguiendo el siguiente script.
+
+Es importante sondear correctamente al titular de estos programas CONAVI, MEJORAMIENTO DE VIVIENDA debido a que tienen tarjetas con BIN 5261 que es producto propio.
+
+ 
+
+Ejemplo:
+175.10.11.180-256
+ 
+
+Buenos dias/tardes/ noches
+Gracias por llamar al area de activaciones le asiste Ana Perez
+-¿Con quien tengo el gusto?-, _Con Ariel Hernandez_
+-Sr.Hernandez en que le puedo apoyar?- Srita en activar mi tarjeta
+-¿Su tarjeta es nueva o reposición?- (si la tarjeta es Nueva)
+PREGUNTAR A QUE PROGRAMA PERTENECE
+Sr. (Hernandez) Le menciono; por el momento no podemos activar su tarjeta
+por que aun se encuentra en proceso de validacion internamente con el banco
+y su programa, es importante esperar a que finalice este proceso
+de validacion y pueda quedar activa la tarjeta. No se cuenta con tiempo estimado.
+Si asi lo desea podria validarlo en un cajero automatico.
+**Es importante que agregen el nombre de el programa en el comentario de la observacion** Se tipifica como LLAMADA EFECTIVA , combo IMPROCEDENTE, NOMBRE COMPLETO en las OBSERVACIONES se pondra lo siguiente:
+SE BRINDA SCRIPT DE ACTIVACION DE PROGRAMAS / (Se debe agregar el nombre del programa)
+¿Su tarjeta es nueva o reposicion?(en caso de ser Reposición)
+Sr Hernandez la reposición ¿es por Robo o Extravio?
+(se genera el proceso que normalemente realizas al igual que su respectiva tipificación)
+Cualquier duda o aclaración levantar la mano.
+Nota: Se transfiere a ENCUESTA.
+
+5261924000702005
+A202104171114
+
+TIPIFICACION ACTIVACION **OJO IMPORTANTE**
+
+RECUERDEN QUE TODAS LAS LLAMADAS TIENEN QUE TENER EL NOMBRE COMPLETO, PERSONA QUE NO REALIZE EL PROCESO CORRESPODIENTE BASICO SERA BAJA DE LA CAMPAÑA
+
+----RECUERDEN LEER Y COMPRENDER LOS COMENTARIOS, BASE A CADA TIPIFICACION------.
+SI ESTAN EN VARIAS CAMPAÑAS, TENGAN MUCHO CUIDADO EN COMO ESTAN REALIZANDO EL LLENADO.
+
+**********ASESOR QUE ESTE ANOTANDO LA PALABRA BLOQUEO EN LAS PAPALETAS DE ACTIVACION SERA SUSPENDIDO UN DIASIN GOCE DE SUELDO CON ACTA ADMINISTRATIVA**************
+
+**********ASESOR QUE ESTE REALIZANDO MAL EL PROCESO EN EL LLENADO DE LA PAPELETA O NO COINCIDA EL COMENTARIO CON LA TIPIFICACION , SERA ACREDOR A UNA ACTA ADMINISTRATIVA, JUNTANDO 2 ACTAS ADMINISTRATIVAS SERAN BAJA DE LA CAMPAÑA*********
+FAVOR DE OMITIR CARACTERES ESPECIALES Y ACENTOS,SELECCIONAR DE MANERA CORRECTA LOS COMBOS YA PREDETERMINADOS , solamente se estara utilizando SOLO UNA DIAGONAL EN CASO DE QUE LA LLEGARAN A UTILIZAR
+SI HAY DATOS QUE ANOTAN POR ADELANTADO Y NO LOS OCUPAN FAVOR DE BORRARLOS, EL COMBO DE IMPROCENDENTE NO TE BORRA TODO. ( Tener mucho cuidado)
+ENCUESTAS
+Siempre se debera realizar encuesta en las llamadas. SI LA LLAMADA ES TRANSFERIDA A ALGUNA OTRA AREA , Se especificara en el observacion de encuestas.
+Ejemplos:
+CLIENTE NO ACEPTA ENCUESTA
+NO SE GENERA ENCUESTA SE TRANSFIERE A (colocar el area a donde la transfieren)
+NO SE GENERA ENCUESTA CLIENTE CUELGA
+SE GENERA ENCUESTA
+
+--------------------------------------------------------------------------------------------
+
+Cuando se tengan una llamada y en el campo deTELÉFONOcuente con elsiguiente dato:"prívate" "anonymous" "unavailable" o algún número de conmutador (4050, 4034, 4095, etc.)
+Se borra ese dato y se agregaran a diez dígitos el numero 1 ( UNO )
+Ejemplo:1111111111
+Se estará solicitando un numero adicional y se llenará siempre a 10 dígitos en el campo de TELÉFONO ADICIONAL.
+En caso de no lo PROPORCIONE este dato se justificará en comentarios adicionales.
+--------------------------------------------------------------------------------------------
+
+NOTA: YA NO SE LE BRINDARA LA SUCURSAL DE ORIGEN DE NINGUNA TARJETA , SE TRANSFIERE A INFORMACION GENERAL PARA QUE LE PUEDAN BRINDAR INFORMACION
+Se debera mantener estas tipificaciones en todas las llamadas en el campo de observaciones. RECUERDEN QUE SI NO LES BRINDA ALGUN DATO IMPORTANTE deben agragar la siguente palabra NOPROPORCIONA (sin espacios), cada tipificacion viene si aplica el improcedente. RESPETAR LA ESTRUCTURA DE LOS COMENTARIOS DEPENDIENDO LA TIPIFICACION DE LA LLAMADA
+Si realizaron un servicio o proceso y despues la transfieren se pondra como comentario adiconal..
+
+En elcampodel Folio de activacion : solo se llenara cuando se genere la activacion , de lo contrario se deja sin comentario
+En elcampode numero de cuenta: solo se llenara cuando brinden el dato, de lo contrario se deja sel numero 0
+En elcampode sucursal : solo se llenara cuando tengan el dato,de lo contrario se deja sin comentario
+
+
+***Llamada Transferida***IMPROCEDENTE***UNA LLAMADA TRANSFERIDA SOLO ES CUANDO DESDE EL INICIO LO SOLICITAN
+NO SE GENERA ACTIVACION/SE TRANS INFO GRAL (motivo de transf)/ COMENTARIOS ADICIONALES
+NO SE GENERA ACTIVACION/ SE TRANS A BLOQUEO/ COMENTARIOS ADICIONALES
+NO SE GENERA ACTIVACION/TRANS LA RED DE LA GENTE/ COMENTARIOS ADICIONALES
+NO SE GENERA ACTIVACION/SE TRANS A QUEJAS Y ACLARACIONES/ COMENTARIOS ADICIONALES
+NO SE GENERA ACTIVACION/ SE TRANS A REMESAS/ COMENTARIOS ADICIONALES
+
+***Falla en audio***IMPROCEDENTE***
+FALLA EN AUDIO/ SE BRINDA SCRIPT DE SALIDA/ COMENTARIOS ADICIONALES
+
+***Solicita Saldo***IMPROCEDENTE***UNA LLAMADA SOLICITA SALDOSOLO ES CUANDO DESDE EL INICIO LO SOLICITAN
+NO SE GENERA ACTIVACION/SE TRANS A SOLICITA SALDO/ COMENTARIOS ADICIONALES
+***Solicita Saldo***IMPROCEDENTE***Cuando no contamos con Solicita Saldo se Pondra el mismo comentario****
+NO SE GENERA ACTIVACION/SE TRANS A SOLICITA SALDO (SIN COMENTARIOS ADICIONALES)
+
+***Llamada Muda******IMPROCEDENTE***
+LLAMADA MUDA/LLAMADA INGRESA SE BRINDA SCRIPT DE BIENVENIDA 3 VECES NO HAY INTERACCION CON EL CLIENTE/ COMENTARIOS ADICIONALES
+
+
+***Llamada cortada******IMPROCEDENTE***
+ENTRA LLAMADA / SE CORTA DE 0-5 SEG (Cuando entra llamada y se corta inmediatamente) O (cuando pasa mas de los 5 segundos , no tienen ningun dato y se corta la llamda)
+LLAMADA CORTADA / SE CORTA LLAMADA AL SOLICITAR DATOS/ COMENTARIOS ADICIONALES
+
+
+***Otros******IMPROCEDENTE***
+VENTANA FUERA DE SERVICIO/ (colocar el skill al que se transfiere)/ COMENTARIOS ADICIONALES
+NO SE GENERA ACTIVACION / SCRIPT DE CONTINGENCIA SIN CORE BANCARIO (cuando no tengamos acceso a los aplicativos Bancarios)
+
+
+***Llamada de Prueba*****IMPROCEDENTE***
+LLAMADA DE PRUEBA/ COMENTARIOS ADICIONALES
+
+***No aparece en sistema***ACTIVACION *** Tienes que tener todos los campos llenos, dato faltante se agrega NOPROPORCIONA
+NO SE GENERA ACTIVACION/ TARJETA INEXISTENTE / COMENTARIOS ADICIONALES
+
+
+
+*** No es banco emisor***IMPROCEDENTE***
+NO SE GENERA ACTIVACION/ TARJETA PERTENECE A (colocar el banco al que pertenece) / COMENTARIOS ADICIONALES
+
+
+
+***Ya esta Activa***ACTIVACION***Tienes que tener todos los campos llenos, dato faltante se agrega NOPROPORCIONA
+NO SE GENERA ACTIVACION/ TARJETA YA ACTIVA/PROGRAMA / COMENTARIOS ADICIONALES
+
+
+***Tiene clave TC o Renovación***ACTIVACION***Tienes que tener todos los campos llenos, dato faltante se agrega NOPROPORCIONA
+NO SE GENERA ACTIVACION /PROGRAMA / TARJETA agregar estatus con bloqueo/vencida/con fecha de baja por el sistema / COMENTARIOS ADICIONALES
+
+
+
+*** No cuenta con los datos solicitados***IMPROCEDENTE***
+NO SE GENERA ACTIVACION /PROGRAMA / NO CUENTA CON DATOS SOLICITADOS/ (especificar los datos faltantes) / COMENTARIOS ADICIONALES
+NO SE GENERA ACTIVACION/ NO ES TITULAR/ COMENTARIOS ADICIONALES
+Cuando los DATOS NO COINCIDEN se tipifica en *** No cuenta con los datos solicitados** NO APLICA IMPROCEDENTE *dato faltante se agrega NOPROPORCIONA
+NO SE GENERA ACTIVACION /PROGRAMA / DATOS NO COINCIDEN/ COMENTARIOS ADICIONALES
+
+
+***Llamada Efectiva***ACTIVACION***Tienes que tener todos los campos llenos, dato faltante se agrega NOPROPORCIONA
+ACTIVACION EXITOSA / NUEVA O REPOSICION / PROGRAMA / COMENTARIOS ADICIONALES
+ACTIVACION EXITOSA/ NUEVA O REPOSICION / PROGRAMA / /SE CORTA LLAMADA ANTES DE PROPORCIONAR FOLIO DE ACTIVACION/ COMENTARIOS ADICIONALES
+
+
+***PARA PROGRAMAS CON TARJETA NUEVASE GUARDARA COMO EFECTIVA E IMPROCENDENTE**dato faltante se agrega NOPROPORCIONA
+SE BRINDA SCRIPT DE ACTIVACION DE PROGRAMAS / (Se debe agregar el nombre del programa) /SI REALIZAN TRANFERENCIAse pondra como comentario adiconal
+
